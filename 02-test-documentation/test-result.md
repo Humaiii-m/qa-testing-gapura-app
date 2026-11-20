@@ -8,8 +8,8 @@ This document records the results of test execution.
 
 | Metric | Result |
 |---|---|
-| Total Test Cases | 0 |
-| Passed | 0 |
+| Total Test Cases | 1 |
+| Passed | 1 |
 | Failed | 0 |
 | Blocked | 0 |
 | Not Tested | 0 |
@@ -18,7 +18,7 @@ This document records the results of test execution.
 
 | Test Case ID | Actual Result | Status | Evidence |
 |---|---|---|---|
-| TC-001 | Pending | Not Tested | - |
+| TC-001 | Libertas Bookstore Berhasil menggunakan kata kunci Libertas. | PASS | TC-001-search-libertas-pass.png |
 
 ## 4. Notes
 Test results will be updated after execution.
