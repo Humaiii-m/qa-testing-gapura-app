@@ -83,7 +83,8 @@ Pengujian tidak mencakup:
 
 ## 7. Project Duration
 
-5 Weeks (durasi keseluruhan proyek sesuai perencanaan awal).
+- Initial Project Duration: 5 Weeks
+- Remaining Project Duration: 4 Weeks
 
 ## 8. Limitations
 
