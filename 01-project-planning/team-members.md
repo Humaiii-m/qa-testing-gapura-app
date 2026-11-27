@@ -3,10 +3,10 @@
 
 | No | Nama | NIM | Tanggung Jawab Utama |
 |---|---|---|---|
-| 1 | Member 1 | NIM | QA Lead / Koordinator Proyek |
-| 2 | Member 2 | NIM | Riset Standar dan Literatur |
-| 3 | Member 3 | NIM | Perancangan Pengujian dan Test Case |
-| 4 | Member 4 | NIM | Pelaksanaan Testing, Otomatisasi, dan Manajemen Bug |
+| 1 | Rafky Pratama | 231011401103 | QA Lead / Koordinator Proyek |
+| 2 | Meiva Malykhah Qurniawan | 231011403236 | Riset Standar dan Literatur |
+| 3 | Siti Kusumah | 231011401678 | Perancangan Pengujian dan Test Case |
+| 4 | Humaidah | 231011401404 | Pelaksanaan Testing, Otomatisasi, dan Manajemen Bug |
 
 ---
 
