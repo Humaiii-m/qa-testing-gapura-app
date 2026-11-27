@@ -18,7 +18,7 @@ This document records the results of test execution.
 
 | Test Case ID | Actual Result | Status | Evidence |
 |---|---|---|---|
-| TC-001 | Libertas Bookstore berhasil ditemukan menggunakan kata kunci Libertas | PASS | TC-001-search-libertas-pass.png |
+| TC-001 | Libertas Bookstore berhasil ditemukan menggunakan kata kunci Libertas | PASS |  |
 
 ## 4. Notes
 Test results will be updated after execution.
