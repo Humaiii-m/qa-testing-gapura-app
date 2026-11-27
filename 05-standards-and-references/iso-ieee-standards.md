@@ -1,4 +1,3 @@
-
 # ISO/IEC/IEEE Standards
 
 ## 1. Deskripsi
@@ -45,7 +44,7 @@ Judul Proyek:
 
 Pengujian Kualitas Fungsional Aplikasi Gapura App Menggunakan Metode Black Box Testing dengan Teknik Equivalence Partitioning dan Boundary Value Analysis.
 
-Standar ISO/IEC/IEEE 29119-1:2022 digunakan sebagai referensi konseptual untuk memahami dan merencanakan aktivitas pengujian.
+ISO/IEC/IEEE 29119-1:2022 digunakan sebagai referensi konseptual untuk memahami dan merencanakan aktivitas pengujian.
 
 Penerapan yang direncanakan dalam proyek:
 
@@ -58,15 +57,41 @@ Penerapan yang direncanakan dalam proyek:
 | Test Documentation | Mendokumentasikan test case, hasil pengujian, dan bukti |
 | Defect Management | Mencatat dan mengelola bug yang ditemukan |
 
-## 5. Catatan Penerapan
+## 5. Pemetaan Implementasi Standar pada Proyek
+
+Pemetaan berikut menghubungkan konsep dalam ISO/IEC/IEEE 29119-1:2022 dengan aktivitas dan dokumentasi pengujian Gapura App.
+
+| Konsep dalam Standar | Penerapan dalam Proyek | Dokumen atau Bukti |
+|---|---|---|
+| Test Planning | Menentukan tujuan, ruang lingkup, metode, teknik, lingkungan, risiko, dan jadwal pengujian | `test-plan.md`, `testing-schedule.md` |
+| Risk-Based Testing | Mengidentifikasi risiko dan mempertimbangkan prioritas fitur yang diuji | Bagian Risks pada `test-plan.md` |
+| Test Design Techniques | Menggunakan Equivalence Partitioning dan Boundary Value Analysis | `test-scenario.md`, `test-case.md` |
+| Test Environment | Menentukan perangkat, sistem operasi, browser, koneksi internet, dan alat otomatisasi | `test-plan.md` |
+| Manual and Automated Testing | Melakukan pengujian manual dan otomatis menggunakan Selenium | Test script Selenium dan hasil pengujian |
+| Test Documentation | Mendokumentasikan skenario, kasus pengujian, hasil, dan bukti pengujian | Dokumen pengujian dan folder evidence |
+| Defect Management | Mencatat, mengklasifikasikan, dan menganalisis defect | `bug-report.md` |
+| Retesting | Menguji kembali fitur yang mengalami defect setelah perbaikan tersedia | Dokumentasi hasil retesting |
+
+
+## 6. Evaluasi Penerapan
+
+ISO/IEC/IEEE 29119-1:2022 digunakan sebagai landasan konseptual dalam menyusun aktivitas pengujian Gapura App.
+
+Penerapan standar disesuaikan dengan ruang lingkup proyek, yaitu pengujian fungsional menggunakan Black Box Testing dengan teknik Equivalence Partitioning dan Boundary Value Analysis.
+
+Status penerapan akan diperbarui berdasarkan aktivitas yang benar-benar telah dilaksanakan oleh kelompok.
+
+Pemetaan ini merupakan bentuk adaptasi konsep standar untuk kebutuhan proyek dan tidak menyatakan bahwa proyek telah memenuhi seluruh persyaratan seri ISO/IEC/IEEE 29119.
+
+## 7. Catatan
 
 ISO/IEC/IEEE 29119-1:2022 merupakan standar informatif yang memberikan konsep dan panduan umum pengujian perangkat lunak.
 
+Pembahasan lebih spesifik mengenai proses pengujian, dokumentasi pengujian, dan teknik pengujian terdapat pada bagian lain dalam seri ISO/IEC/IEEE 29119.
+
 Penerapannya dalam proyek ini disesuaikan dengan ruang lingkup penelitian, kemampuan tim, serta akses terhadap aplikasi Gapura App.
 
-Pemetaan di atas merupakan rencana penerapan awal. Implementasi aktual akan disesuaikan setelah aktivitas pengujian dilaksanakan.
-
-## 6. Sumber Referensi
+## 8. Sumber Referensi
 
 **ISO/IEC/IEEE 29119-1:2022**
 
@@ -74,4 +99,4 @@ Software and Systems Engineering — Software Testing — Part 1: General Concep
 
 Second Edition, 2022.
 
-Dokumen standar yang digunakan: ISO_IEC_IEEE_29119-1_2022(en).pdf.
+Dokumen standar yang digunakan: `ISO_IEC_IEEE_29119-1_2022(en).pdf`.
